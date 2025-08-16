@@ -1,0 +1,11 @@
+data/processed/cleaned_data.csv
+data/processed/movement_metrics.csv
+data/raw/bat_tracking_Germany.csv
+outputs/figures/bat_activity_heatmap.html
+outputs/figures/bat_paths_colored.html
+outputs/figures/bat_paths_map.html
+outputs/figures/comparison.png
+outputs/figures/kde_map.png
+bat_tracking_project.docx
+~WRL1439.tmp
+src/__pycache__/
